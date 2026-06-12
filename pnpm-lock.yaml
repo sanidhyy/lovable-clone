@@ -208,8 +208,8 @@ importers:
         specifier: 4.0.0-beta.0
         version: 4.0.0-beta.0(tailwindcss@4.2.4)
       mprocs:
-        specifier: ^0.9.2
-        version: 0.9.2
+        specifier: ^0.9.6
+        version: 0.9.6
       prettier:
         specifier: ^3.8.1
         version: 3.8.1
@@ -3929,8 +3929,8 @@ packages:
   module-details-from-path@1.0.4:
     resolution: {integrity: sha512-EGWKgxALGMgzvxYF1UyGTy0HXX/2vHLkw6+NvDKW2jypWbHpjQuj4UMcqQWXHERJhVGKikolT06G3bcKe4fi7w==}
 
-  mprocs@0.9.2:
-    resolution: {integrity: sha512-FSHarRnBDw1w3deGWkIR1ZuU6HX2XAZdGDPLv7gcvNyTHjQkOaRjqXcJjtwdhyxbUygCQ8CBaZzwLyGzvLw2qw==}
+  mprocs@0.9.6:
+    resolution: {integrity: sha512-sEwB5XD3/rReB47h0YbN2L5fXOLcMjF8sOEDTMr/daCLyVZfU4CegbanxO0ybiaFx0MQ/nV7yzOHmprmy2Wq9w==}
     engines: {node: '>=0.10.0'}
     hasBin: true
 
@@ -9209,7 +9209,7 @@ snapshots:
 
   module-details-from-path@1.0.4: {}
 
-  mprocs@0.9.2: {}
+  mprocs@0.9.6: {}
 
   ms@2.0.0: {}
 
