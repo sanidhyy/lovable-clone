@@ -286,7 +286,7 @@ Useful resources and dependencies that are used in Vibe.
 - [@clerk/nextjs](https://www.npmjs.com/package/@clerk/nextjs): ^7.2.8
 - [@clerk/themes](https://www.npmjs.com/package/@clerk/themes): ^2.4.57
 - [@e2b/code-interpreter](https://www.npmjs.com/package/@e2b/code-interpreter): ^2.3.3
-- [@eslint/eslintrc](https://www.npmjs.com/package/@eslint/eslintrc): ^3.3.4
+- [@eslint/eslintrc](https://www.npmjs.com/package/@eslint/eslintrc): ^3.3.5
 - [@hookform/resolvers](https://www.npmjs.com/package/@hookform/resolvers): ^5.2.2
 - [@ianvs/prettier-plugin-sort-imports](https://www.npmjs.com/package/@ianvs/prettier-plugin-sort-imports): ^4.7.0
 - [@inngest/agent-kit](https://www.npmjs.com/package/@inngest/agent-kit): ^0.13.2
