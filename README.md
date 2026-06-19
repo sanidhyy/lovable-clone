@@ -355,7 +355,7 @@ Useful resources and dependencies that are used in Vibe.
 - [tw-animate-css](https://www.npmjs.com/package/tw-animate-css): ^1.4.0
 - [typescript](https://www.npmjs.com/package/typescript): ^6.0.3
 - [vaul](https://www.npmjs.com/package/vaul): ^1.1.2
-- [zod](https://www.npmjs.com/package/zod): ^4.3.6
+- [zod](https://www.npmjs.com/package/zod): ^4.4.3
 - [zustand](https://www.npmjs.com/package/zustand): ^5.0.14
 
 <!--- DEPENDENCIES_END --->
