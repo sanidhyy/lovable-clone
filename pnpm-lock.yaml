@@ -15,8 +15,8 @@ importers:
         specifier: ^2.4.57
         version: 2.4.57(react-dom@19.2.5(react@19.2.5))(react@19.2.5)
       '@e2b/code-interpreter':
-        specifier: ^2.3.3
-        version: 2.3.3
+        specifier: ^2.6.1
+        version: 2.6.1
       '@hookform/resolvers':
         specifier: ^5.2.2
         version: 5.2.2(react-hook-form@7.76.1(react@19.2.5))
@@ -383,6 +383,9 @@ packages:
   '@bufbuild/protobuf@2.12.0':
     resolution: {integrity: sha512-B/XlCaFIP8LOwzo+bz5uFzATYokcwCKQcghqnlfwSmM5eX/qTkvDBnDPs+gXtX/RyjxJ4DRikECcPJbyALA8FA==}
 
+  '@bufbuild/protobuf@2.12.1':
+    resolution: {integrity: sha512-BvAMfS6LrgZiryOAZ4pBYucu4wG/Ei/9o9DZ9akbREnMLbPJiom2i8b9C8IsKErQoiKqVhrerzt3kOT/RrzLHg==}
+
   '@clerk/backend@3.4.2':
     resolution: {integrity: sha512-3hPVKogxieYiRCXkWqqbAzXc8Rd74SgZi9wRTEVdbV2hOiQqwiIBbjGaR7VM9mQunEV0vwWv8FxHE3ukEpFEAQ==}
     engines: {node: '>=20.9.0'}
@@ -444,8 +447,8 @@ packages:
   '@dmitryrechkin/json-schema-to-zod@1.0.1':
     resolution: {integrity: sha512-cG9gC4NMu/7JZqmRZy6uIb+l+kxek2GFQ0/qrhw7xeFK2l5B9yF9FVuujoqFPLRGDHNFYqtBWht7hY4KB0ngrA==}
 
-  '@e2b/code-interpreter@2.3.3':
-    resolution: {integrity: sha512-WOpSwc1WpvxyOijf6WMbR76BUuvd2O9ddXgCHHi65lkuy6YgQGq7oyd8PNsT331O9Tqbccjy6uF4xanSdLX1UA==}
+  '@e2b/code-interpreter@2.6.1':
+    resolution: {integrity: sha512-5sKJaw2w/XZNHq7NpcNm8cpGu3IHlwLjavRd6V5BsVQyyl+5zGnSWE+EvA6W1VHDbPXiSdm6pN8cREWAifdrJw==}
     engines: {node: '>=20'}
 
   '@electric-sql/pglite-socket@0.1.1':
@@ -2966,6 +2969,10 @@ packages:
     resolution: {integrity: sha512-Tpm5F6BJAkRoSXqBA1/VLHn/OP4mCsDTX0FWP6UMxC2MU26nJ2fXgPZNdYOyTvi4gyNd1GeEQzUCbAmODh/GuQ==}
     engines: {node: '>=20'}
 
+  e2b@2.31.0:
+    resolution: {integrity: sha512-vXQomb16mOk+ufi3YFfN6eURm6eC0NZGMK49PXibfpsmy0azcvLbQuHxCkhgyAk5z5GVfrEUwc08QKVtt6KNFg==}
+    engines: {node: '>=20.18.1'}
+
   eastasianwidth@0.2.0:
     resolution: {integrity: sha512-I88TYZWc9XiYHRQ4/3c5rjjfgkjhLyW2luGIheGERbNQ6OY7yTybanSpDXZa8y7VUP9YmDcYa+eyq4ca7iLqWA==}
 
@@ -4947,6 +4954,10 @@ packages:
     resolution: {integrity: sha512-tOG/7GyXpFevhXVh8jOPJrmtRpOTsYqUIkVdVooZYJS/z8WhfQUX8RJILmeuJNinGAMSu1veBr4asSHFt5/hng==}
     engines: {node: '>=18'}
 
+  tar@7.5.19:
+    resolution: {integrity: sha512-4LeEWl96twnS2Q7Bz4MGqgazLqO+hJN63GZxXoIqh1T3VweYD997gbU1ItNsQafqqXTXd5WFyFdReLtwvRBNiw==}
+    engines: {node: '>=18'}
+
   temporal-polyfill@0.2.5:
     resolution: {integrity: sha512-ye47xp8Cb0nDguAhrrDS1JT1SzwEV9e26sSsrWzVu+yPZ7LzceEcH0i2gci9jWfOfSCCgM3Qv5nOYShVUUFUXA==}
 
@@ -5053,6 +5064,10 @@ packages:
 
   undici-types@8.3.0:
     resolution: {integrity: sha512-j375ScV60dom+YkPFIfTLcOiPxkN/buHz5GobjLhixFuANaNs3C9l4GmrWqejgXWJ7BbJcFYpTEUkS1Ge8bpZQ==}
+
+  undici@7.28.0:
+    resolution: {integrity: sha512-cRZYrTDwWznlnRiPjggAGxZXanty6M8RV1ff8Wm4LWXBp7/IG8v5DnOm74DtUBp9OONpK75YlPnIjQqX0dBDtA==}
+    engines: {node: '>=20.18.1'}
 
   unpipe@1.0.0:
     resolution: {integrity: sha512-pjy2bYhSsufwWlKwPc+l3cN7+wuJlK6uz0YdJEOlQDbl6jo/YlPi4mb8agUkVC8BF7V8NuzeyPNqRksA3hztKQ==}
@@ -5489,6 +5504,8 @@ snapshots:
 
   '@bufbuild/protobuf@2.12.0': {}
 
+  '@bufbuild/protobuf@2.12.1': {}
+
   '@clerk/backend@3.4.2(react-dom@19.2.5(react@19.2.5))(react@19.2.5)':
     dependencies:
       '@clerk/shared': 4.8.6(react-dom@19.2.5(react@19.2.5))(react@19.2.5)
@@ -5547,22 +5564,31 @@ snapshots:
       - react
       - react-dom
 
-  '@connectrpc/connect-web@2.0.0-rc.3(@bufbuild/protobuf@2.11.0)(@connectrpc/connect@2.0.0-rc.3(@bufbuild/protobuf@2.11.0))':
+  '@connectrpc/connect-web@2.0.0-rc.3(@bufbuild/protobuf@2.11.0)(@connectrpc/connect@2.0.0-rc.3(@bufbuild/protobuf@2.12.1))':
     dependencies:
       '@bufbuild/protobuf': 2.11.0
-      '@connectrpc/connect': 2.0.0-rc.3(@bufbuild/protobuf@2.11.0)
+      '@connectrpc/connect': 2.0.0-rc.3(@bufbuild/protobuf@2.12.1)
+
+  '@connectrpc/connect-web@2.0.0-rc.3(@bufbuild/protobuf@2.12.1)(@connectrpc/connect@2.0.0-rc.3(@bufbuild/protobuf@2.12.1))':
+    dependencies:
+      '@bufbuild/protobuf': 2.12.1
+      '@connectrpc/connect': 2.0.0-rc.3(@bufbuild/protobuf@2.12.1)
 
   '@connectrpc/connect@2.0.0-rc.3(@bufbuild/protobuf@2.11.0)':
     dependencies:
       '@bufbuild/protobuf': 2.11.0
 
+  '@connectrpc/connect@2.0.0-rc.3(@bufbuild/protobuf@2.12.1)':
+    dependencies:
+      '@bufbuild/protobuf': 2.12.1
+
   '@dmitryrechkin/json-schema-to-zod@1.0.1':
     dependencies:
       zod: 3.25.76
 
-  '@e2b/code-interpreter@2.3.3':
+  '@e2b/code-interpreter@2.6.1':
     dependencies:
-      e2b: 2.19.0
+      e2b: 2.31.0
 
   '@electric-sql/pglite-socket@0.1.1(@electric-sql/pglite@0.4.1)':
     dependencies:
@@ -8144,7 +8170,7 @@ snapshots:
     dependencies:
       '@bufbuild/protobuf': 2.11.0
       '@connectrpc/connect': 2.0.0-rc.3(@bufbuild/protobuf@2.11.0)
-      '@connectrpc/connect-web': 2.0.0-rc.3(@bufbuild/protobuf@2.11.0)(@connectrpc/connect@2.0.0-rc.3(@bufbuild/protobuf@2.11.0))
+      '@connectrpc/connect-web': 2.0.0-rc.3(@bufbuild/protobuf@2.11.0)(@connectrpc/connect@2.0.0-rc.3(@bufbuild/protobuf@2.12.1))
       chalk: 5.6.2
       compare-versions: 6.1.1
       dockerfile-ast: 0.7.1
@@ -8152,6 +8178,20 @@ snapshots:
       openapi-fetch: 0.14.1
       platform: 1.3.6
       tar: 7.5.13
+
+  e2b@2.31.0:
+    dependencies:
+      '@bufbuild/protobuf': 2.12.1
+      '@connectrpc/connect': 2.0.0-rc.3(@bufbuild/protobuf@2.12.1)
+      '@connectrpc/connect-web': 2.0.0-rc.3(@bufbuild/protobuf@2.12.1)(@connectrpc/connect@2.0.0-rc.3(@bufbuild/protobuf@2.12.1))
+      chalk: 5.6.2
+      compare-versions: 6.1.1
+      dockerfile-ast: 0.7.1
+      glob: 11.1.0
+      openapi-fetch: 0.14.1
+      platform: 1.3.6
+      tar: 7.5.19
+      undici: 7.28.0
 
   eastasianwidth@0.2.0: {}
 
@@ -10347,6 +10387,14 @@ snapshots:
       minizlib: 3.1.0
       yallist: 5.0.0
 
+  tar@7.5.19:
+    dependencies:
+      '@isaacs/fs-minipass': 4.0.1
+      chownr: 3.0.0
+      minipass: 7.1.3
+      minizlib: 3.1.0
+      yallist: 5.0.0
+
   temporal-polyfill@0.2.5:
     dependencies:
       temporal-spec: 0.2.4
@@ -10466,6 +10514,8 @@ snapshots:
   undici-types@6.21.0: {}
 
   undici-types@8.3.0: {}
+
+  undici@7.28.0: {}
 
   unpipe@1.0.0: {}
 

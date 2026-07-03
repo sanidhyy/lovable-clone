@@ -25,7 +25,7 @@
 	"dependencies": {
 		"@clerk/nextjs": "^7.2.8",
 		"@clerk/themes": "^2.4.57",
-		"@e2b/code-interpreter": "^2.3.3",
+		"@e2b/code-interpreter": "^2.6.1",
 		"@hookform/resolvers": "^5.2.2",
 		"@inngest/agent-kit": "^0.13.2",
 		"@prisma/adapter-pg": "^7.5.0",
