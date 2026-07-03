@@ -61,7 +61,7 @@
 		"react": "19.2.5",
 		"react-dom": "19.2.5",
 		"react-error-boundary": "^6.1.1",
-		"react-hook-form": "^7.76.1",
+		"react-hook-form": "^7.80.0",
 		"react-hot-toast": "^2.6.0",
 		"react-resizable-panels": "^4.11.0",
 		"react-textarea-autosize": "^8.5.9",
