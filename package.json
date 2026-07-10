@@ -28,7 +28,7 @@
 		"@e2b/code-interpreter": "^2.6.1",
 		"@hookform/resolvers": "^5.2.2",
 		"@inngest/agent-kit": "^0.13.2",
-		"@prisma/adapter-pg": "^7.5.0",
+		"@prisma/adapter-pg": "^7.8.0",
 		"@prisma/client": "^7.3.0",
 		"@radix-ui/react-collapsible": "^1.1.13",
 		"@radix-ui/react-dialog": "^1.1.15",
