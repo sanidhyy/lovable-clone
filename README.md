@@ -291,7 +291,7 @@ Useful resources and dependencies that are used in Vibe.
 - [@ianvs/prettier-plugin-sort-imports](https://www.npmjs.com/package/@ianvs/prettier-plugin-sort-imports): ^4.7.0
 - [@inngest/agent-kit](https://www.npmjs.com/package/@inngest/agent-kit): ^0.13.2
 - [@next/eslint-plugin-next](https://www.npmjs.com/package/@next/eslint-plugin-next): ^16.2.9
-- [@prisma/adapter-pg](https://www.npmjs.com/package/@prisma/adapter-pg): ^7.5.0
+- [@prisma/adapter-pg](https://www.npmjs.com/package/@prisma/adapter-pg): ^7.8.0
 - [@prisma/client](https://www.npmjs.com/package/@prisma/client): ^7.3.0
 - [@radix-ui/react-collapsible](https://www.npmjs.com/package/@radix-ui/react-collapsible): ^1.1.13
 - [@radix-ui/react-dialog](https://www.npmjs.com/package/@radix-ui/react-dialog): ^1.1.15
