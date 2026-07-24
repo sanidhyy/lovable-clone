@@ -302,7 +302,7 @@ Useful resources and dependencies that are used in Vibe.
 - [@radix-ui/react-tabs](https://www.npmjs.com/package/@radix-ui/react-tabs): ^1.1.17
 - [@radix-ui/react-tooltip](https://www.npmjs.com/package/@radix-ui/react-tooltip): ^1.2.12
 - [@t3-oss/env-nextjs](https://www.npmjs.com/package/@t3-oss/env-nextjs): ^0.13.11
-- [@tailwindcss/postcss](https://www.npmjs.com/package/@tailwindcss/postcss): ^4.3.2
+- [@tailwindcss/postcss](https://www.npmjs.com/package/@tailwindcss/postcss): ^4.3.3
 - [@tanstack/react-query](https://www.npmjs.com/package/@tanstack/react-query): ^5.100.11
 - [@trpc/client](https://www.npmjs.com/package/@trpc/client): ^11.9.0
 - [@trpc/server](https://www.npmjs.com/package/@trpc/server): ^11.9.0
