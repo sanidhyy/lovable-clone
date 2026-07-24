@@ -63,7 +63,7 @@
 		"react-error-boundary": "^6.1.1",
 		"react-hook-form": "^7.81.0",
 		"react-hot-toast": "^2.6.0",
-		"react-resizable-panels": "^4.11.0",
+		"react-resizable-panels": "^4.12.2",
 		"react-textarea-autosize": "^8.5.9",
 		"server-only": "^0.0.1",
 		"superjson": "^2.2.6",
