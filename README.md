@@ -351,7 +351,7 @@ Useful resources and dependencies that are used in Vibe.
 - [tailwind-merge](https://www.npmjs.com/package/tailwind-merge): ^3.6.0
 - [tailwind-scrollbar](https://www.npmjs.com/package/tailwind-scrollbar): ^4.0.2
 - [tailwindcss](https://www.npmjs.com/package/tailwindcss): ^4.3.0
-- [tsx](https://www.npmjs.com/package/tsx): ^4.22.3
+- [tsx](https://www.npmjs.com/package/tsx): ^4.23.1
 - [tw-animate-css](https://www.npmjs.com/package/tw-animate-css): ^1.4.0
 - [typescript](https://www.npmjs.com/package/typescript): ^6.0.3
 - [vaul](https://www.npmjs.com/package/vaul): ^1.1.2
