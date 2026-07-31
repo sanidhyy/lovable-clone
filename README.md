@@ -341,7 +341,7 @@ Useful resources and dependencies that are used in Vibe.
 - [rate-limiter-flexible](https://www.npmjs.com/package/rate-limiter-flexible): ^11.0.1
 - [react](https://www.npmjs.com/package/react): 19.2.8
 - [react-dom](https://www.npmjs.com/package/react-dom): 19.2.5
-- [react-error-boundary](https://www.npmjs.com/package/react-error-boundary): ^6.1.1
+- [react-error-boundary](https://www.npmjs.com/package/react-error-boundary): ^6.1.2
 - [react-hook-form](https://www.npmjs.com/package/react-hook-form): ^7.81.0
 - [react-hot-toast](https://www.npmjs.com/package/react-hot-toast): ^2.6.0
 - [react-resizable-panels](https://www.npmjs.com/package/react-resizable-panels): ^4.12.2
