@@ -86,7 +86,7 @@
 		"dotenv": "^17.4.2",
 		"e2b": "^2.19.0",
 		"eslint": "^9.39.2",
-		"eslint-config-next": "16.2.4",
+		"eslint-config-next": "16.3.0",
 		"eslint-config-prettier": "^10.1.8",
 		"eslint-plugin-prettier": "^5.5.6",
 		"eslint-plugin-react-hooks": "^7.1.1",
