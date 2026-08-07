@@ -334,7 +334,7 @@ Useful resources and dependencies that are used in Vibe.
 - [openai](https://www.npmjs.com/package/openai): ^6.35.0
 - [pg](https://www.npmjs.com/package/pg): ^8.22.0
 - [prettier](https://www.npmjs.com/package/prettier): ^3.9.5
-- [prettier-plugin-tailwindcss](https://www.npmjs.com/package/prettier-plugin-tailwindcss): ^0.8.0
+- [prettier-plugin-tailwindcss](https://www.npmjs.com/package/prettier-plugin-tailwindcss): ^0.8.1
 - [prisma](https://www.npmjs.com/package/prisma): ^7.8.0
 - [prismjs](https://www.npmjs.com/package/prismjs): ^1.30.0
 - [random-word-slugs](https://www.npmjs.com/package/random-word-slugs): ^0.1.7
