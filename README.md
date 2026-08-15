@@ -342,7 +342,7 @@ Useful resources and dependencies that are used in Vibe.
 - [react](https://www.npmjs.com/package/react): 19.2.8
 - [react-dom](https://www.npmjs.com/package/react-dom): 19.2.8
 - [react-error-boundary](https://www.npmjs.com/package/react-error-boundary): ^6.1.2
-- [react-hook-form](https://www.npmjs.com/package/react-hook-form): ^7.81.0
+- [react-hook-form](https://www.npmjs.com/package/react-hook-form): ^7.85.0
 - [react-hot-toast](https://www.npmjs.com/package/react-hot-toast): ^2.6.0
 - [react-resizable-panels](https://www.npmjs.com/package/react-resizable-panels): ^4.12.2
 - [react-textarea-autosize](https://www.npmjs.com/package/react-textarea-autosize): ^8.5.9
