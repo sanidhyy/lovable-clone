@@ -319,7 +319,7 @@ Useful resources and dependencies that are used in Vibe.
 - [@types/pg](https://www.npmjs.com/package/@types/pg): ^8.20.3
 - [@types/prismjs](https://www.npmjs.com/package/@types/prismjs): ^1.26.6
 - [@types/react](https://www.npmjs.com/package/@types/react): ^19.2.17
-- [@types/react-dom](https://www.npmjs.com/package/@types/react-dom): ^19.2.3
+- [@types/react-dom](https://www.npmjs.com/package/@types/react-dom): ^19.2.5
 - [@vercel/config](https://www.npmjs.com/package/@vercel/config): ^0.3.0
 - [@vercel/functions](https://www.npmjs.com/package/@vercel/functions): ^3.6.2
 - [class-variance-authority](https://www.npmjs.com/package/class-variance-authority): ^0.7.1
