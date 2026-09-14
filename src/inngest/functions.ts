@@ -131,9 +131,9 @@ export const codeAgentFunction = inngest.createFunction(
 
 								return result.stdout;
 							} catch (err) {
-								console.error(`Command failed: ${err} \nstdout: ${buffers.stdout} \nstderror: ${buffers.stderr}`);
+								console.error(`Command failed: ${err} \nstdout: ${buffers.stdout} \nstderr: ${buffers.stderr}`);
 
-								return `Command failed: ${err} \nstdout: ${buffers.stdout} \nstderror: ${buffers.stderr}`;
+								return `Command failed: ${err} \nstdout: ${buffers.stdout} \nstderr: ${buffers.stderr}`;
 							}
 						});
 					},
