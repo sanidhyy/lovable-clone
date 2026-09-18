@@ -293,7 +293,7 @@ Useful resources and dependencies that are used in Vibe.
 - [@babel/eslint-parser](https://www.npmjs.com/package/@babel/eslint-parser): ^8.0.1
 - [@clerk/nextjs](https://www.npmjs.com/package/@clerk/nextjs): ^7.9.2
 - [@clerk/themes](https://www.npmjs.com/package/@clerk/themes): ^2.4.57
-- [@e2b/code-interpreter](https://www.npmjs.com/package/@e2b/code-interpreter): ^2.6.1
+- [@e2b/code-interpreter](https://www.npmjs.com/package/@e2b/code-interpreter): ^2.8.0
 - [@eslint/eslintrc](https://www.npmjs.com/package/@eslint/eslintrc): ^3.3.5
 - [@hookform/resolvers](https://www.npmjs.com/package/@hookform/resolvers): ^5.9.1
 - [@ianvs/prettier-plugin-sort-imports](https://www.npmjs.com/package/@ianvs/prettier-plugin-sort-imports): ^4.7.1
@@ -359,7 +359,7 @@ Useful resources and dependencies that are used in Vibe.
 - [tailwind-merge](https://www.npmjs.com/package/tailwind-merge): ^3.6.0
 - [tailwind-scrollbar](https://www.npmjs.com/package/tailwind-scrollbar): ^4.0.2
 - [tailwindcss](https://www.npmjs.com/package/tailwindcss): ^4.3.3
-- [tsx](https://www.npmjs.com/package/tsx): ^4.23.12
+- [tsx](https://www.npmjs.com/package/tsx): ^4.23.13
 - [tw-animate-css](https://www.npmjs.com/package/tw-animate-css): ^1.4.0
 - [typescript](https://www.npmjs.com/package/typescript): ^6.0.3
 - [vaul](https://www.npmjs.com/package/vaul): ^1.1.2
