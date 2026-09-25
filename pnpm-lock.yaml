@@ -57,8 +57,8 @@ importers:
         specifier: ^0.13.11
         version: 0.13.11(typescript@6.0.3)(valibot@1.4.2(typescript@6.0.3))(zod@4.5.4)
       '@tanstack/react-query':
-        specifier: ^5.100.11
-        version: 5.100.11(react@19.2.8)
+        specifier: ^5.103.2
+        version: 5.103.2(react@19.2.8)
       '@trpc/client':
         specifier: ^11.9.0
         version: 11.9.0(@trpc/server@11.9.0(typescript@6.0.3))(typescript@6.0.3)
@@ -67,7 +67,7 @@ importers:
         version: 11.9.0(typescript@6.0.3)
       '@trpc/tanstack-react-query':
         specifier: ^11.9.0
-        version: 11.9.0(@tanstack/react-query@5.100.11(react@19.2.8))(@trpc/client@11.9.0(@trpc/server@11.9.0(typescript@6.0.3))(typescript@6.0.3))(@trpc/server@11.9.0(typescript@6.0.3))(react-dom@19.2.8(react@19.2.8))(react@19.2.8)(typescript@6.0.3)
+        version: 11.9.0(@tanstack/react-query@5.103.2(react@19.2.8))(@trpc/client@11.9.0(@trpc/server@11.9.0(typescript@6.0.3))(typescript@6.0.3))(@trpc/server@11.9.0(typescript@6.0.3))(react-dom@19.2.8(react@19.2.8))(react@19.2.8)(typescript@6.0.3)
       '@vercel/config':
         specifier: ^0.3.0
         version: 0.3.0
@@ -2433,14 +2433,11 @@ packages:
   '@tailwindcss/postcss@4.3.3':
     resolution: {integrity: sha512-JTSZZGQi1AyKirbLN3azmjVzef92tcX7h+iSqPdaeStyFpGpDlKvvpxeOE8njhbUanbRwr3z8DyzhICWnMtQeg==}
 
-  '@tanstack/query-core@5.100.11':
-    resolution: {integrity: sha512-lmE0994apShXPj8CUxgx4ch5yUJhE9k/+tVwihBvPOyerACWdBocfFg24t8+0RhtlTd7tEgchDkhlCxNssvDxw==}
+  '@tanstack/query-core@5.103.2':
+    resolution: {integrity: sha512-I8DkFXls5jXLqtm8+QpOhEmG07hIblhSZFzafg9wHsMSEvMzULy9hK17wU1T/ahfhMbtITJhbxutwwCoihkR7A==}
 
-  '@tanstack/query-core@5.102.8':
-    resolution: {integrity: sha512-ZNjkJ33CqvPNec/6lZBnHqLc3EVGPZ9ySLhYahU9TcuRFdmwXewuj0c4hwSWcGHqEUwcSrKeZ+oGcvPBqXcQcg==}
-
-  '@tanstack/react-query@5.100.11':
-    resolution: {integrity: sha512-J0f9s5x3LE1450nNNfYx+e/n0DMa0uOBdFJUy5r0RvmsXd4nB/n0rbHtHI1vYXhikNFan+wf51p6Tmp4c8ucrg==}
+  '@tanstack/react-query@5.103.2':
+    resolution: {integrity: sha512-B+fWiYZBc+0uUD5zDZAeLw9dKj7XEsdnuu6zRZ+no6LNKpeE3P3bJ+N6HINjcIlWR6fW3vUoTneEaGa2V6ehqw==}
     peerDependencies:
       react: ^18 || ^19
 
@@ -6011,7 +6008,7 @@ snapshots:
 
   '@clerk/shared@4.31.1(react-dom@19.2.8(react@19.2.8))(react@19.2.8)':
     dependencies:
-      '@tanstack/query-core': 5.102.8
+      '@tanstack/query-core': 5.103.2
       dequal: 2.0.3
       glob-to-regexp: 0.4.1
       js-cookie: 3.0.8
@@ -6027,15 +6024,15 @@ snapshots:
       - react
       - react-dom
 
-  '@connectrpc/connect-web@2.1.2(@bufbuild/protobuf@2.14.0)(@connectrpc/connect@2.1.2(@bufbuild/protobuf@2.14.0))':
+  '@connectrpc/connect-web@2.1.2(@bufbuild/protobuf@2.14.0)(@connectrpc/connect@2.1.2(@bufbuild/protobuf@2.14.1))':
     dependencies:
       '@bufbuild/protobuf': 2.14.0
-      '@connectrpc/connect': 2.1.2(@bufbuild/protobuf@2.14.0)
+      '@connectrpc/connect': 2.1.2(@bufbuild/protobuf@2.14.1)
 
-  '@connectrpc/connect-web@2.1.2(@bufbuild/protobuf@2.14.1)(@connectrpc/connect@2.1.2(@bufbuild/protobuf@2.14.0))':
+  '@connectrpc/connect-web@2.1.2(@bufbuild/protobuf@2.14.1)(@connectrpc/connect@2.1.2(@bufbuild/protobuf@2.14.1))':
     dependencies:
       '@bufbuild/protobuf': 2.14.1
-      '@connectrpc/connect': 2.1.2(@bufbuild/protobuf@2.14.0)
+      '@connectrpc/connect': 2.1.2(@bufbuild/protobuf@2.14.1)
 
   '@connectrpc/connect@2.1.2(@bufbuild/protobuf@2.14.0)':
     dependencies:
@@ -7957,13 +7954,11 @@ snapshots:
       postcss: 8.5.22
       tailwindcss: 4.3.3
 
-  '@tanstack/query-core@5.100.11': {}
+  '@tanstack/query-core@5.103.2': {}
 
-  '@tanstack/query-core@5.102.8': {}
-
-  '@tanstack/react-query@5.100.11(react@19.2.8)':
+  '@tanstack/react-query@5.103.2(react@19.2.8)':
     dependencies:
-      '@tanstack/query-core': 5.100.11
+      '@tanstack/query-core': 5.103.2
       react: 19.2.8
 
   '@traceloop/ai-semantic-conventions@0.20.0':
@@ -8005,9 +8000,9 @@ snapshots:
     dependencies:
       typescript: 6.0.3
 
-  '@trpc/tanstack-react-query@11.9.0(@tanstack/react-query@5.100.11(react@19.2.8))(@trpc/client@11.9.0(@trpc/server@11.9.0(typescript@6.0.3))(typescript@6.0.3))(@trpc/server@11.9.0(typescript@6.0.3))(react-dom@19.2.8(react@19.2.8))(react@19.2.8)(typescript@6.0.3)':
+  '@trpc/tanstack-react-query@11.9.0(@tanstack/react-query@5.103.2(react@19.2.8))(@trpc/client@11.9.0(@trpc/server@11.9.0(typescript@6.0.3))(typescript@6.0.3))(@trpc/server@11.9.0(typescript@6.0.3))(react-dom@19.2.8(react@19.2.8))(react@19.2.8)(typescript@6.0.3)':
     dependencies:
-      '@tanstack/react-query': 5.100.11(react@19.2.8)
+      '@tanstack/react-query': 5.103.2(react@19.2.8)
       '@trpc/client': 11.9.0(@trpc/server@11.9.0(typescript@6.0.3))(typescript@6.0.3)
       '@trpc/server': 11.9.0(typescript@6.0.3)
       react: 19.2.8
@@ -8945,7 +8940,7 @@ snapshots:
     dependencies:
       '@bufbuild/protobuf': 2.14.0
       '@connectrpc/connect': 2.1.2(@bufbuild/protobuf@2.14.0)
-      '@connectrpc/connect-web': 2.1.2(@bufbuild/protobuf@2.14.0)(@connectrpc/connect@2.1.2(@bufbuild/protobuf@2.14.0))
+      '@connectrpc/connect-web': 2.1.2(@bufbuild/protobuf@2.14.0)(@connectrpc/connect@2.1.2(@bufbuild/protobuf@2.14.1))
       chalk: 5.6.2
       compare-versions: 6.1.1
       dockerfile-ast: 0.7.1
@@ -8961,7 +8956,7 @@ snapshots:
     dependencies:
       '@bufbuild/protobuf': 2.14.1
       '@connectrpc/connect': 2.1.2(@bufbuild/protobuf@2.14.1)
-      '@connectrpc/connect-web': 2.1.2(@bufbuild/protobuf@2.14.1)(@connectrpc/connect@2.1.2(@bufbuild/protobuf@2.14.0))
+      '@connectrpc/connect-web': 2.1.2(@bufbuild/protobuf@2.14.1)(@connectrpc/connect@2.1.2(@bufbuild/protobuf@2.14.1))
       chalk: 5.6.2
       compare-versions: 6.1.1
       dockerfile-ast: 0.7.1
