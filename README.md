@@ -318,8 +318,8 @@ Useful resources and dependencies that are used in Vibe.
 - [@types/node](https://www.npmjs.com/package/@types/node): ^26.1.1
 - [@types/pg](https://www.npmjs.com/package/@types/pg): ^8.20.3
 - [@types/prismjs](https://www.npmjs.com/package/@types/prismjs): ^1.26.6
-- [@types/react](https://www.npmjs.com/package/@types/react): ^19.2.18
-- [@types/react-dom](https://www.npmjs.com/package/@types/react-dom): ^19.2.5
+- [@types/react](https://www.npmjs.com/package/@types/react): ^19.3.0
+- [@types/react-dom](https://www.npmjs.com/package/@types/react-dom): ^19.3.0
 - [@vercel/config](https://www.npmjs.com/package/@vercel/config): ^0.3.0
 - [@vercel/functions](https://www.npmjs.com/package/@vercel/functions): ^3.6.2
 - [class-variance-authority](https://www.npmjs.com/package/class-variance-authority): ^0.7.1
@@ -347,8 +347,8 @@ Useful resources and dependencies that are used in Vibe.
 - [prismjs](https://www.npmjs.com/package/prismjs): ^1.30.0
 - [random-word-slugs](https://www.npmjs.com/package/random-word-slugs): ^0.1.7
 - [rate-limiter-flexible](https://www.npmjs.com/package/rate-limiter-flexible): ^11.0.1
-- [react](https://www.npmjs.com/package/react): 19.2.8
-- [react-dom](https://www.npmjs.com/package/react-dom): 19.2.8
+- [react](https://www.npmjs.com/package/react): 19.3.0
+- [react-dom](https://www.npmjs.com/package/react-dom): 19.3.0
 - [react-error-boundary](https://www.npmjs.com/package/react-error-boundary): ^6.1.2
 - [react-hook-form](https://www.npmjs.com/package/react-hook-form): ^7.86.0
 - [react-hot-toast](https://www.npmjs.com/package/react-hot-toast): ^2.6.1
