@@ -83,7 +83,7 @@
 		"@types/prismjs": "^1.26.6",
 		"@types/react": "^19.3.0",
 		"@types/react-dom": "^19.3.0",
-		"dotenv": "^17.4.2",
+		"dotenv": "^18.0.4",
 		"e2b": "^2.51.0",
 		"eslint": "^9.39.2",
 		"eslint-config-next": "16.3.0",
