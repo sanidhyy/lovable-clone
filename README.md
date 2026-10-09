@@ -325,7 +325,7 @@ Useful resources and dependencies that are used in Vibe.
 - [class-variance-authority](https://www.npmjs.com/package/class-variance-authority): ^0.7.1
 - [client-only](https://www.npmjs.com/package/client-only): ^0.0.1
 - [clsx](https://www.npmjs.com/package/clsx): ^2.1.1
-- [date-fns](https://www.npmjs.com/package/date-fns): ^4.1.0
+- [date-fns](https://www.npmjs.com/package/date-fns): ^4.4.0
 - [dotenv](https://www.npmjs.com/package/dotenv): ^18.0.5
 - [e2b](https://www.npmjs.com/package/e2b): ^2.51.0
 - [eslint](https://www.npmjs.com/package/eslint): ^9.39.2
