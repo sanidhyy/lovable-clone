@@ -326,7 +326,7 @@ Useful resources and dependencies that are used in Vibe.
 - [client-only](https://www.npmjs.com/package/client-only): ^0.0.1
 - [clsx](https://www.npmjs.com/package/clsx): ^2.1.1
 - [date-fns](https://www.npmjs.com/package/date-fns): ^4.1.0
-- [dotenv](https://www.npmjs.com/package/dotenv): ^18.0.4
+- [dotenv](https://www.npmjs.com/package/dotenv): ^18.0.5
 - [e2b](https://www.npmjs.com/package/e2b): ^2.51.0
 - [eslint](https://www.npmjs.com/package/eslint): ^9.39.2
 - [eslint-config-next](https://www.npmjs.com/package/eslint-config-next): 16.3.0
