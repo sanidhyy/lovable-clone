@@ -302,7 +302,7 @@ Useful resources and dependencies that are used in Vibe.
 - [@prisma/adapter-pg](https://www.npmjs.com/package/@prisma/adapter-pg): ^7.10.0
 - [@prisma/client](https://www.npmjs.com/package/@prisma/client): ^7.9.1
 - [@radix-ui/react-collapsible](https://www.npmjs.com/package/@radix-ui/react-collapsible): ^1.1.20
-- [@radix-ui/react-dialog](https://www.npmjs.com/package/@radix-ui/react-dialog): ^1.1.23
+- [@radix-ui/react-dialog](https://www.npmjs.com/package/@radix-ui/react-dialog): ^1.3.1
 - [@radix-ui/react-dropdown-menu](https://www.npmjs.com/package/@radix-ui/react-dropdown-menu): ^2.1.24
 - [@radix-ui/react-label](https://www.npmjs.com/package/@radix-ui/react-label): ^2.1.15
 - [@radix-ui/react-separator](https://www.npmjs.com/package/@radix-ui/react-separator): ^1.1.16
