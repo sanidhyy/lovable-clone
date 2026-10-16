@@ -22,7 +22,7 @@ importers:
         version: 5.9.1(@standard-schema/spec@1.1.0)(ajv@8.20.0)(effect@3.20.0)(react-hook-form@7.86.0(react@19.3.0))(valibot@1.4.2(typescript@6.0.3))(zod@4.5.4)
       '@inngest/agent-kit':
         specifier: ^0.13.2
-        version: 0.13.2(inngest@4.20.0(@opentelemetry/core@2.11.0(@opentelemetry/api@1.9.1))(express@5.2.1(supports-color@7.2.0))(hono@4.13.12)(next@16.3.8(@babel/core@8.0.1)(@opentelemetry/api@1.9.1)(@types/node@26.1.1)(react-dom@19.3.0(react@19.3.0))(react@19.3.0))(react@19.3.0)(supports-color@7.2.0)(typescript@6.0.3)(zod@4.5.4))(supports-color@7.2.0)(zod@4.5.4)
+        version: 0.13.2(inngest@4.23.0(@opentelemetry/core@2.11.0(@opentelemetry/api@1.9.1))(express@5.2.1(supports-color@7.2.0))(hono@4.13.12)(next@16.3.8(@babel/core@8.0.1)(@opentelemetry/api@1.9.1)(@types/node@26.1.1)(react-dom@19.3.0(react@19.3.0))(react@19.3.0))(react@19.3.0)(supports-color@7.2.0)(typescript@6.0.3)(zod@4.5.4))(supports-color@7.2.0)(zod@4.5.4)
       '@prisma/adapter-pg':
         specifier: ^7.10.0
         version: 7.10.0
@@ -87,8 +87,8 @@ importers:
         specifier: ^4.4.0
         version: 4.4.0
       inngest:
-        specifier: ^4.20.0
-        version: 4.20.0(@opentelemetry/core@2.11.0(@opentelemetry/api@1.9.1))(express@5.2.1(supports-color@7.2.0))(hono@4.13.12)(next@16.3.8(@babel/core@8.0.1)(@opentelemetry/api@1.9.1)(@types/node@26.1.1)(react-dom@19.3.0(react@19.3.0))(react@19.3.0))(react@19.3.0)(supports-color@7.2.0)(typescript@6.0.3)(zod@4.5.4)
+        specifier: ^4.23.0
+        version: 4.23.0(@opentelemetry/core@2.11.0(@opentelemetry/api@1.9.1))(express@5.2.1(supports-color@7.2.0))(hono@4.13.12)(next@16.3.8(@babel/core@8.0.1)(@opentelemetry/api@1.9.1)(@types/node@26.1.1)(react-dom@19.3.0(react@19.3.0))(react@19.3.0))(react@19.3.0)(supports-color@7.2.0)(typescript@6.0.3)(zod@4.5.4)
       lucide-react:
         specifier: ^1.27.0
         version: 1.27.0(react@19.3.0)
@@ -3995,8 +3995,8 @@ packages:
   inherits@2.0.4:
     resolution: {integrity: sha512-k/vGaX4/Yla3WzyMCvTQOXYeIHvqOKtnqBduzTHpzpQZzAskKMhZ2K+EnBiSM9zGSoIFeMpXKxa4dYeZIQqewQ==}
 
-  inngest@4.20.0:
-    resolution: {integrity: sha512-U6ro6cG+Y2ys79Qxo6hliDhjSjU/616XO1QzaViinSj8jGOpaei+iQ7cB66bL/M3sLceumn2r5i/SKfrevdbsw==}
+  inngest@4.23.0:
+    resolution: {integrity: sha512-83VREC+uwpBKAzA5esq2mfBKGZXJ47eWgJ33L4uCeysf/AptTFoNwNkueeEWV1BgiV8HKkotgWcGrTDMdSc2UQ==}
     engines: {node: '>=20'}
     peerDependencies:
       '@sveltejs/kit': '>=1.27.3'
@@ -6392,14 +6392,14 @@ snapshots:
   '@img/sharp-win32-x64@0.35.5':
     optional: true
 
-  '@inngest/agent-kit@0.13.2(inngest@4.20.0(@opentelemetry/core@2.11.0(@opentelemetry/api@1.9.1))(express@5.2.1(supports-color@7.2.0))(hono@4.13.12)(next@16.3.8(@babel/core@8.0.1)(@opentelemetry/api@1.9.1)(@types/node@26.1.1)(react-dom@19.3.0(react@19.3.0))(react@19.3.0))(react@19.3.0)(supports-color@7.2.0)(typescript@6.0.3)(zod@4.5.4))(supports-color@7.2.0)(zod@4.5.4)':
+  '@inngest/agent-kit@0.13.2(inngest@4.23.0(@opentelemetry/core@2.11.0(@opentelemetry/api@1.9.1))(express@5.2.1(supports-color@7.2.0))(hono@4.13.12)(next@16.3.8(@babel/core@8.0.1)(@opentelemetry/api@1.9.1)(@types/node@26.1.1)(react-dom@19.3.0(react@19.3.0))(react@19.3.0))(react@19.3.0)(supports-color@7.2.0)(typescript@6.0.3)(zod@4.5.4))(supports-color@7.2.0)(zod@4.5.4)':
     dependencies:
       '@dmitryrechkin/json-schema-to-zod': 1.0.1
       '@inngest/ai': 0.1.6
       '@modelcontextprotocol/sdk': 1.32.1(supports-color@7.2.0)(zod@4.5.4)
       eventsource: 3.0.7
       express: 4.22.1(supports-color@7.2.0)
-      inngest: 4.20.0(@opentelemetry/core@2.11.0(@opentelemetry/api@1.9.1))(express@5.2.1(supports-color@7.2.0))(hono@4.13.12)(next@16.3.8(@babel/core@8.0.1)(@opentelemetry/api@1.9.1)(@types/node@26.1.1)(react-dom@19.3.0(react@19.3.0))(react@19.3.0))(react@19.3.0)(supports-color@7.2.0)(typescript@6.0.3)(zod@4.5.4)
+      inngest: 4.23.0(@opentelemetry/core@2.11.0(@opentelemetry/api@1.9.1))(express@5.2.1(supports-color@7.2.0))(hono@4.13.12)(next@16.3.8(@babel/core@8.0.1)(@opentelemetry/api@1.9.1)(@types/node@26.1.1)(react-dom@19.3.0(react@19.3.0))(react@19.3.0))(react@19.3.0)(supports-color@7.2.0)(typescript@6.0.3)(zod@4.5.4)
       xxhashjs: 0.2.2
       zod: 4.5.4
     transitivePeerDependencies:
@@ -8043,7 +8043,7 @@ snapshots:
 
   '@types/connect@3.4.38':
     dependencies:
-      '@types/node': 26.5.0
+      '@types/node': 26.1.1
 
   '@types/d3-array@3.0.3': {}
 
@@ -8099,7 +8099,7 @@ snapshots:
 
   '@types/memcached@2.2.10':
     dependencies:
-      '@types/node': 26.5.0
+      '@types/node': 26.1.1
 
   '@types/ms@2.1.0': {}
 
@@ -8117,11 +8117,11 @@ snapshots:
 
   '@types/pg-pool@2.0.7':
     dependencies:
-      '@types/pg': 8.23.1
+      '@types/pg': 8.20.3
 
   '@types/pg@8.15.6':
     dependencies:
-      '@types/node': 26.5.0
+      '@types/node': 26.1.1
       pg-protocol: 1.16.0
       pg-types: 2.2.0
 
@@ -8177,8 +8177,8 @@ snapshots:
 
   '@typescript-eslint/project-service@8.66.0(supports-color@7.2.0)(typescript@6.0.3)':
     dependencies:
-      '@typescript-eslint/tsconfig-utils': 8.70.0(typescript@6.0.3)
-      '@typescript-eslint/types': 8.70.0
+      '@typescript-eslint/tsconfig-utils': 8.66.0(typescript@6.0.3)
+      '@typescript-eslint/types': 8.66.0
       debug: 4.4.3(supports-color@7.2.0)
       typescript: 6.0.3
     transitivePeerDependencies:
@@ -9825,7 +9825,7 @@ snapshots:
 
   inherits@2.0.4: {}
 
-  inngest@4.20.0(@opentelemetry/core@2.11.0(@opentelemetry/api@1.9.1))(express@5.2.1(supports-color@7.2.0))(hono@4.13.12)(next@16.3.8(@babel/core@8.0.1)(@opentelemetry/api@1.9.1)(@types/node@26.1.1)(react-dom@19.3.0(react@19.3.0))(react@19.3.0))(react@19.3.0)(supports-color@7.2.0)(typescript@6.0.3)(zod@4.5.4):
+  inngest@4.23.0(@opentelemetry/core@2.11.0(@opentelemetry/api@1.9.1))(express@5.2.1(supports-color@7.2.0))(hono@4.13.12)(next@16.3.8(@babel/core@8.0.1)(@opentelemetry/api@1.9.1)(@types/node@26.1.1)(react-dom@19.3.0(react@19.3.0))(react@19.3.0))(react@19.3.0)(supports-color@7.2.0)(typescript@6.0.3)(zod@4.5.4):
     dependencies:
       '@bufbuild/protobuf': 2.14.1
       '@inngest/ai': 0.1.8
@@ -10647,7 +10647,7 @@ snapshots:
       '@protobufjs/path': 1.1.2
       '@protobufjs/pool': 1.1.0
       '@protobufjs/utf8': 1.1.2
-      '@types/node': 26.5.0
+      '@types/node': 26.1.1
       long: 5.3.2
 
   proxy-addr@2.0.7:
