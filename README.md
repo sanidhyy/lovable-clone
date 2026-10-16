@@ -316,7 +316,7 @@ Useful resources and dependencies that are used in Vibe.
 - [@trpc/server](https://www.npmjs.com/package/@trpc/server): ^11.9.0
 - [@trpc/tanstack-react-query](https://www.npmjs.com/package/@trpc/tanstack-react-query): ^11.9.0
 - [@types/node](https://www.npmjs.com/package/@types/node): ^26.1.1
-- [@types/pg](https://www.npmjs.com/package/@types/pg): ^8.20.3
+- [@types/pg](https://www.npmjs.com/package/@types/pg): ^8.23.1
 - [@types/prismjs](https://www.npmjs.com/package/@types/prismjs): ^1.26.6
 - [@types/react](https://www.npmjs.com/package/@types/react): ^19.3.0
 - [@types/react-dom](https://www.npmjs.com/package/@types/react-dom): ^19.3.0
@@ -340,7 +340,7 @@ Useful resources and dependencies that are used in Vibe.
 - [next](https://www.npmjs.com/package/next): 16.3.8
 - [next-themes](https://www.npmjs.com/package/next-themes): ^0.4.6
 - [openai](https://www.npmjs.com/package/openai): ^7.5.0
-- [pg](https://www.npmjs.com/package/pg): ^8.22.0
+- [pg](https://www.npmjs.com/package/pg): ^8.23.1
 - [prettier](https://www.npmjs.com/package/prettier): ^3.9.5
 - [prettier-plugin-tailwindcss](https://www.npmjs.com/package/prettier-plugin-tailwindcss): ^0.8.1
 - [prisma](https://www.npmjs.com/package/prisma): ^7.10.0
