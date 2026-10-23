@@ -92,7 +92,7 @@
 		"eslint-plugin-react-hooks": "^7.1.1",
 		"eslint-plugin-tailwindcss": "4.4.0",
 		"mprocs": "^0.9.6",
-		"prettier": "^3.9.5",
+		"prettier": "^3.9.10",
 		"prettier-plugin-tailwindcss": "^0.8.1",
 		"prisma": "^7.10.0",
 		"tailwind-scrollbar": "^4.0.2",
