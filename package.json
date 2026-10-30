@@ -60,7 +60,7 @@
 		"rate-limiter-flexible": "^11.2.1",
 		"react": "19.3.0",
 		"react-dom": "19.3.0",
-		"react-error-boundary": "^6.1.2",
+		"react-error-boundary": "^6.1.6",
 		"react-hook-form": "^7.86.0",
 		"react-hot-toast": "^2.6.1",
 		"react-resizable-panels": "^4.15.0",
