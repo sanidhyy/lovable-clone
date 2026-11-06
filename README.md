@@ -301,7 +301,7 @@ Useful resources and dependencies that are used in Vibe.
 - [@next/eslint-plugin-next](https://www.npmjs.com/package/@next/eslint-plugin-next): ^16.4.2
 - [@prisma/adapter-pg](https://www.npmjs.com/package/@prisma/adapter-pg): ^7.10.0
 - [@prisma/client](https://www.npmjs.com/package/@prisma/client): ^7.9.1
-- [@radix-ui/react-collapsible](https://www.npmjs.com/package/@radix-ui/react-collapsible): ^1.1.20
+- [@radix-ui/react-collapsible](https://www.npmjs.com/package/@radix-ui/react-collapsible): ^1.2.1
 - [@radix-ui/react-dialog](https://www.npmjs.com/package/@radix-ui/react-dialog): ^1.3.1
 - [@radix-ui/react-dropdown-menu](https://www.npmjs.com/package/@radix-ui/react-dropdown-menu): ^2.2.1
 - [@radix-ui/react-label](https://www.npmjs.com/package/@radix-ui/react-label): ^2.1.17
@@ -320,7 +320,7 @@ Useful resources and dependencies that are used in Vibe.
 - [@types/prismjs](https://www.npmjs.com/package/@types/prismjs): ^1.26.6
 - [@types/react](https://www.npmjs.com/package/@types/react): ^19.3.0
 - [@types/react-dom](https://www.npmjs.com/package/@types/react-dom): ^19.3.0
-- [@vercel/config](https://www.npmjs.com/package/@vercel/config): ^0.12.0
+- [@vercel/config](https://www.npmjs.com/package/@vercel/config): ^0.14.1
 - [@vercel/functions](https://www.npmjs.com/package/@vercel/functions): ^3.10.1
 - [class-variance-authority](https://www.npmjs.com/package/class-variance-authority): ^0.7.1
 - [client-only](https://www.npmjs.com/package/client-only): ^0.0.1
