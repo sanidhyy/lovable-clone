@@ -337,7 +337,7 @@ Useful resources and dependencies that are used in Vibe.
 - [inngest](https://www.npmjs.com/package/inngest): ^4.26.2
 - [lucide-react](https://www.npmjs.com/package/lucide-react): ^1.61.0
 - [mprocs](https://www.npmjs.com/package/mprocs): ^0.9.6
-- [next](https://www.npmjs.com/package/next): 16.4.1
+- [next](https://www.npmjs.com/package/next): 16.4.6
 - [next-themes](https://www.npmjs.com/package/next-themes): ^0.4.6
 - [openai](https://www.npmjs.com/package/openai): ^7.5.0
 - [pg](https://www.npmjs.com/package/pg): ^8.23.1
